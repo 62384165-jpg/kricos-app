@@ -1,0 +1,53 @@
+categoria,nombre,precio,descripcion,disponible
+Hamburguesas,Clásica,9.00,"Pan, carne vacuna, papas fritas, tomate, lechuga.",true
+Hamburguesas,Royal,12.00,"Pan, carne vacuna, huevo frito, papas fritas, tomate, lechuga.",true
+Hamburguesas,Royal especial,15.00,"Pan, carne vacuna, queso, salchicha, huevo frito, papas fritas, tomate, lechuga.",true
+Hamburguesas,Campesina,15.00,"Pan, carne vacuna, queso, plátano frito, huevo frito, papas fritas, tomate, lechuga.",true
+Hamburguesas,Americana,14.00,"Pan, carne vacuna, queso, tocino, huevo frito, papas fritas, tomate, lechuga.",true
+Hamburguesas,Godzilla,22.00,"Pan, doble carne vacuna, queso, salchicha, huevo frito, papas fritas, tomate, lechuga.",true
+Hamburguesas,Hawaiana,14.00,"Pan, carne vacuna, queso, huevo frito, rodaja de piña, papas fritas, tomate, lechuga.",true
+Hamburguesas,Doble Carne,15.00,"Pan, doble carne vacuna, doble queso, papas fritas, tomate, lechuga.",true
+Hamburguesas,Cheesse,13.00,"Pan, carne vacuna, extra queso, papas fritas, tomate, lechuga.",true
+Hamburguesas,Crispy,8.00,"Pan, pechuga crispy, papas fritas, tomate, lechuga.",true
+Hamburguesas,King Kong,24.00,"Pan, doble carne vacuna, queso, plátano, huevo frito, papas fritas, tomate, lechuga.",true
+Salchis,Tradicional,8.00,"Salchichas, papas fritas, ensalada.",true
+Salchis,Salchiroyal,12.00,"Salchichas, papas fritas, huevo frito, ensalada.",true
+Salchis,Salchi a lo pobre,13.00,"Salchichas, papas fritas, huevo frito, plátano frito, ensalada.",true
+Salchis,Salchimaduro,14.00,"Salchichas, papas fritas, plátano frito en rodajas, trozos de pollo, ensalada.",true
+Salchis,Salchichedar,13.00,"Salchichas, papas fritas, queso, ensalada.",true
+Salchis,Revoltosa,15.00,"Salchichas con huevo revuelto, papas fritas, ensalada.",true
+Salchis,Salchimix,16.00,"Salchichas, papas fritas, chorizo, cabanossi, trozos de pollo, ensalada.",true
+Broaster,Mostrito broaster,10.00,"1/8 pollo broaster, papas fritas, chaufa, ensalada.",true
+Broaster,Salchibroaster,12.00,"1/8 pollo broaster, salchichas, papas fritas, chaufa, ensalada.",true
+Broaster,Salchibroaster especial,15.00,"1/8 pollo broaster, salchichas, huevo frito, queso, papas fritas, chaufa, ensalada.",true
+Broaster,Broaster selvático,15.00,"1/8 pollo broaster, chorizo, patacones, papas fritas, chaufa, ensalada.",true
+Broaster,Super broaster,16.00,"1/4 de pollo broaster, papas fritas, chaufa, ensalada.",true
+Broaster,Broaster a lo pobre,13.00,"1/8 de pollo broaster, huevo frito, plátano frito, papas fritas, chaufa, ensalada.",true
+Alitas,Alitas con chaufa o papa,15.00,"5 piezas de alitas, chaufa o papas fritas, zumo de limón.",true
+Alitas,Alitas broaster,16.00,"5 piezas de alitas, chaufa, papas fritas, ensalada, zumo de limón.",true
+Alitas,Alitas BBQ,16.00,"5 piezas de alitas con salsa BBQ, chaufa, papas fritas.",true
+Alitas,Hot wings,16.00,"5 piezas de alitas picantes, chaufa, papas fritas.",true
+Alitas,Alitas BBQ picante,17.00,"5 piezas de alitas con salsa BBQ picante, chaufa, papas fritas.",true
+Alitas,Alitas acevichadas,17.00,"5 piezas de alitas con salsa acevichada, chaufa, papas fritas.",true
+Alitas,Alitas a la maracuyá,17.00,"5 piezas de alitas con salsa a la maracuyá, chaufa, papas fritas.",true
+Alitas,Alitas al Kito Kito,17.00,"5 piezas de alitas con salsa al Kito Kito, chaufa, papas fritas.",true
+Bebidas,Jugo de papaya,5.00,"Jugo natural.",true
+Bebidas,Jugo de piña,5.00,"Jugo natural.",true
+Bebidas,Jugo papaya con piña,6.00,"Jugo natural.",true
+Bebidas,Jugo de fresa,8.00,"Jugo natural.",true
+Bebidas,Jugo de mango,8.00,"Jugo natural.",true
+Bebidas,Jugo de maracumango,8.00,"Jugo natural.",true
+Bebidas,Chicha morada 1L,5.00,"Medio litro a S/. 3.00.",true
+Bebidas,Cebada 1L,5.00,"Medio litro a S/. 3.00.",true
+Bebidas,Kito Kito 1L,6.00,"Refresco.",true
+Bebidas,Maracuyá 1L,6.00,"Refresco.",true
+Bebidas,Fresa 1L,8.00,"Refresco.",true
+Bebidas,Maracumango 1L,8.00,"Refresco.",true
+Bebidas,Gaseosa personal,2.00,"Coca Cola o Inca Kola.",true
+Bebidas,Gaseosa 600 ml,3.50,"Coca Cola o Inca Kola.",true
+Bebidas,Gaseosa gordita,4.50,"Gaseosa en envase gordita.",true
+Bebidas,Gaseosa 1 L,6.00,"Coca Cola o Inca Kola.",true
+Bebidas,Gaseosa 1 1/2 L,8.00,"Coca Cola o Inca Kola.",true
+Bebidas,Infusiones,1.50,"Manzanilla, anís, muña, menta muña, té puro, té canela y clavo.",true
+Bebidas,Café gota a gota,2.50,"Café caliente.",true
+Bebidas,Café con leche,4.50,"Café caliente.",true
